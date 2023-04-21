@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadirfaan
-- 👀 I’m interested in programming, backend system, and architecture of system
+- 👀 I’m interested in programming, backend development, and system architecture
 - 🌱 I’m currently learning golang and networking 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in linkedin www.linkedin.com/in/ahmadirfaan
